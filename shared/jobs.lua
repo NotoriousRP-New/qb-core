@@ -37,6 +37,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Chief',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
@@ -66,6 +67,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Chief',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
@@ -95,6 +97,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Chief',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
@@ -123,6 +126,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Chief',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
@@ -151,6 +155,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Manager',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
@@ -218,6 +223,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Manager',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
@@ -247,6 +253,7 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Manager',
 				isboss = true,
+                bankAuth = true,
                 payment = 150
             },
         },
